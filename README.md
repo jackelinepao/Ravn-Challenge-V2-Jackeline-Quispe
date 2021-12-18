@@ -1,7 +1,7 @@
 # Ravn-Challenge-V2-Jackeline-Quispe
 Proyecto que nos permite obtener los datos de las personas del api de Star Wars con apollo
-![ScreenShot](./capture)
-![Alt text](/relative/path/to/capure.PNG?raw=true "Optional Title")
+![ScreenShot](./capure.png)
+![Alt text](./capure.png?raw=true "Optional Title")
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
